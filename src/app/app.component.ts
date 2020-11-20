@@ -1,10 +1,10 @@
-import { Component } from '@angular/core';
+import { Component } from "@angular/core";
 
 @Component({
-  selector: 'spa-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.sass']
+  selector: "spa-root",
+  templateUrl: "./app.component.html",
+  styleUrls: ["./app.component.sass"],
 })
 export class AppComponent {
-  title = 'desafioangular';
+  title = "desafioangular";
 }
